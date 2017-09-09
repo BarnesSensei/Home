@@ -80,5 +80,8 @@ body {
     border-bottom-right-radius:5px;
     width:100%;
     min-height:calc(100% - 120px);
+}
+
+.spacer {
     padding:10px;
 }
