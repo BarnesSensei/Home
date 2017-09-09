@@ -8,7 +8,7 @@
 
 html {
     height:calc(100% - 17px);
-    background:#FFFFFF url("//images/The_Great_Wave_off_Kanagawa.jpg") no-repeat fixed center;
+    background:#FFFFFF url(".../images/The_Great_Wave_off_Kanagawa.jpg") no-repeat fixed center;
     background-size:cover;
     
     
